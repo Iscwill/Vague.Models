@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Cecelia B.",
+    "image": "images/s1f1.jpg",
+    "description": "Cecelia B. - A renowned model known for her elegance and versatility on the runway.",
+    "bio": "Cecelia B. is a seasoned professional with a keen eye for detail, showcasing versatility and grace on renowned runways.",
+    "gender": "Female",
+    "height": "174cm",
+    "weight": "45kg"
+  },
+  {
+    "name": "Amelia S.",
+    "image": "images/s1f1d.jpg",
+    "description": "Amelia S. - A top model known for her captivating runway presence and versatile style.",
+    "bio": "Amelia S. is a seasoned professional with a keen eye for detail, showcasing versatility and grace on renowned runways.",
+    "gender": "Female",
+    "height": "173cm",
+    "weight": "45kg"
+  },
+  {
+    "name": "Micheal D.",
+    "image": "images/s1m1b.jpg",
+    "description": "Micheal D. - A dynamic model known for his strong presence and adaptability on the runway.",
+    "bio": "Michael D. is a seasoned professional with a keen eye for detail, showcasing versatility and grace on renowned runways.",
+    "gender": "Male",
+    "height": "180cm",
+    "weight": "75kg"
+  },
+  {
+    "name": "Lucas W.",
+    "image": "images/s1m1d.jpg",
+    "description": "Lucas W. - A charismatic model known for his striking looks and confident runway presence.",
+    "bio": "Lucas W. is a seasoned professional with a keen eye for detail, showcasing versatility and grace on renowned runways.",
+    "gender": "Male",
+    "height": "175cm",
+    "weight": "68kg"
+  },
+  {
+    "name": "Mia I.",
+    "image": "images/s2f1.jpg",
+    "description": "Mia I. - A captivating model known for her graceful presence and versatile runway skills.",
+    "bio": "Mia I. is a seasoned professional with a keen eye for detail, showcasing versatility and grace on renowned runways.",
+    "gender": "Female",
+    "height": "178cm",
+    "weight": "52kg"
+  },
+  {
+    "name": "Ethan W.",
+    "image": "images/s2m1.jpg",
+    "description": "Ethan W. - A charismatic model known for his strong presence and versatile runway skills.",
+    "bio": "Ethan W. is a seasoned professional with a keen eye for detail, showcasing versatility and grace on renowned runways.",
+    "gender": "Male",
+    "height": "178cm",
+    "weight": "54kg"
+  }
+]

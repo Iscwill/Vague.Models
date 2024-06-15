@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Emma L.",
+    "image": "images/s3f1.jpg",
+    "description": "Emma L. - A renowned model known for her charm and versatility in commercial shoots.",
+    "bio": "Emma L. excels in commercial modeling with her captivating charm and professional versatility.",
+    "gender": "Female",
+    "height": "174cm",
+    "weight": "52kg"
+  },
+  {
+    "name": "Sophia M.",
+    "image": "images/s3f2.jpg",
+    "description": "Sophia M. - A top model known for her engaging presence and adaptable style in commercials.",
+    "bio": "Sophia M. brings a dynamic presence and adaptable style to commercial campaigns.",
+    "gender": "Female",
+    "height": "173cm",
+    "weight": "50kg"
+  },
+  {
+    "name": "James C.",
+    "image": "images/s3m1.jpg",
+    "description": "James C. - A dynamic model known for his strong presence and adaptability in commercials.",
+    "bio": "James C. is known for his strong presence and adaptability in commercial modeling.",
+    "gender": "Male",
+    "height": "180cm",
+    "weight": "78kg"
+  },
+  {
+    "name": "Daniel T.",
+    "image": "images/s3m2b.jpg",
+    "description": "Daniel T. - A charismatic model known for his striking looks and confident presence in ads.",
+    "bio": "Daniel T. is celebrated for his striking looks and confident presence in commercial ads.",
+    "gender": "Male",
+    "height": "175cm",
+    "weight": "70kg"
+  },
+  {
+    "name": "Olivia R.",
+    "image": "images/s4f1.jpg",
+    "description": "Olivia R. - A captivating model known for her grace and versatility in commercial work.",
+    "bio": "Olivia R. captivates with her grace and versatility in various commercial projects.",
+    "gender": "Female",
+    "height": "178cm",
+    "weight": "55kg"
+  },
+  {
+    "name": "Liam H.",
+    "image": "images/s4m1.jpg",
+    "description": "Liam H. - A charismatic model known for his strong presence and versatile commercial skills.",
+    "bio": "Liam H. is admired for his strong presence and versatility in commercial modeling.",
+    "gender": "Male",
+    "height": "178cm",
+    "weight": "76kg"
+  }
+]
